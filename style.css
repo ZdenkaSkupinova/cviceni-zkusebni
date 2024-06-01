@@ -1,0 +1,12 @@
+/* Používáme intuitivní výpočet rozměrů prvků. */
+.topping {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.topping--selected {
+  background-color: #ff0;
+}
+
